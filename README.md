@@ -44,4 +44,5 @@ gcd = (x, y) => {
     };
     return(gcd(y, x % y));
 };
-print(gcd(96, 124));```
+print(gcd(96, 124));
+```
